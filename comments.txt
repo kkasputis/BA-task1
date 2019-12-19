@@ -1,0 +1,43 @@
+==========.gitignore==========
+github.com/github/gitignore/blob/master/VisualStudio.gitignore
+github.com/github/gitignore/pull/2483#issue-259490424)
+github.com/github/gitignore/pull/1529#issuecomment-104372622)
+==========appsettings.json==========
+"Logging": {
+   "LogLevel": {
+     "Default": "Warning"
+   }
+ },
+==========HomeController.cs==========
+NameFromController";
+A lot of content",
+No need",//TestTitle,
+==========launchSettings.json==========
+localhost:14190",
+localhost:5001;http://localhost:5000",
+==========Startup.cs==========
+/ <summary>
+/ Does nothing
+/ </summary>
+TODO: Do something later. When other functionality is implemented.
+ This method gets called by the runtime. Use this method to add services to the container.
+ This lambda determines whether user consent for non-essential cookies is needed for a given request.
+ This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+ The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+==========Index.cshtml==========
+docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+==========_Layout.cshtml==========
+stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+==========_ValidationScriptsPartial.cshtml==========
+cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"
+cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"
+==========site.css==========
+docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+==========site.js==========
+ Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+ for details on configuring this project to bundle and minify static web assets.
+ Write your JavaScript code.
+This is my string");
+alert("this is my comment");

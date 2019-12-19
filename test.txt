@@ -1,0 +1,28 @@
+==========.gitignore==========
+1. //github.com/github/gitignore/blob/master/VisualStudio.gitignore
+2. //github.com/github/gitignore/pull/2483#issue-259490424)
+3. //github.com/github/gitignore/pull/1529#issuecomment-104372622)
+==========appsettings.json==========
+1. //"Logging": {
+2. //   "LogLevel": {
+3. //     "Default": "Warning"
+4. //   }
+5. // },
+==========HomeController.cs==========
+1. //TestTitle,
+==========Startup.cs==========
+1. /// <summary>
+2. /// Does nothing
+3. /// </summary>
+4. //TODO: Do something later. When other functionality is implemented.
+5. // This method gets called by the runtime. Use this method to add services to the container.
+6. // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+7. // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+8. // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+==========site.css==========
+1. //docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+==========site.js==========
+1. // Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+2. // for details on configuring this project to bundle and minify static web assets.
+3. // Write your JavaScript code.
+4. //alert("this is my comment");
